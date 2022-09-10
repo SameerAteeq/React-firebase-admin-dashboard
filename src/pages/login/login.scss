@@ -1,0 +1,40 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        margin-bottom: 40px;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        input {
+            width: 300px;
+            height: 30px;
+            margin: 10px;
+        }
+
+        button {
+            width: 300px;
+            height: 30px;
+            color: white;
+            font-weight: bold;
+            background-color: teal;
+            border: none;
+            cursor: pointer;
+        }
+
+        span {
+            font-size: 14px;
+            font-weight: 500;
+            color: red;
+            margin-top: 10px;
+        }
+    }
+}

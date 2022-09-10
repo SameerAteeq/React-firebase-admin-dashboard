@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;EAC7B,IAAI,EAAE,CAAC;EACP,OAAO,EAAE,IAAI;EACb,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG,CAAC,mBAAmB;EACxD,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG,CAAC,yBAAyB;CACzD",
+    "sources": [
+        "widget.scss"
+    ],
+    "names": [],
+    "file": "widget.css"
+}
